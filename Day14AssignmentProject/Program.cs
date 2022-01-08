@@ -47,6 +47,17 @@ namespace Day14AssignmentProject
             list4.InsertNthPosition(a2 + 1, 30);
             list4.Display();
             Console.WriteLine("****Program End***\n");
+
+            //uc5
+            ListAddClass list5 = new ListAddClass();
+            list5.Add(56);
+            list5.Add(30);
+            list5.Add(70);
+            list5.Display();
+            list5.RemoveFirstNode();
+            Console.WriteLine("After removing first element");
+            list5.Display();
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
