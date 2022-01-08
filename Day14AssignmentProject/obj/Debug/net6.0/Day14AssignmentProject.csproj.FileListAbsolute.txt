@@ -1,0 +1,15 @@
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\bin\Debug\net6.0\Day14AssignmentProject.exe
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\bin\Debug\net6.0\Day14AssignmentProject.deps.json
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\bin\Debug\net6.0\Day14AssignmentProject.runtimeconfig.json
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\bin\Debug\net6.0\Day14AssignmentProject.dll
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\bin\Debug\net6.0\ref\Day14AssignmentProject.dll
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\bin\Debug\net6.0\Day14AssignmentProject.pdb
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.csproj.AssemblyReference.cache
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.AssemblyInfoInputs.cache
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.AssemblyInfo.cs
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.csproj.CoreCompileInputs.cache
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.dll
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\ref\Day14AssignmentProject.dll
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.pdb
+D:\downloads\abc\c# day14 assignment\Day14AssignmentProject\Day14AssignmentProject\obj\Debug\net6.0\Day14AssignmentProject.genruntimeconfig.cache
