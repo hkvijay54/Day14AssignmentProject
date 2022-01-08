@@ -105,6 +105,23 @@ namespace Day14AssignmentProject
             list9.Display();
             Console.WriteLine("Size of Linked List is: " + list9.size());
             Console.WriteLine("****Program End***\n");
+
+            //uc10
+            SortList<int> sList = new SortList<int>();
+            //Adds data to the list  
+            sList.addNode(56);
+            sList.addNode(30);
+            sList.addNode(40);
+            sList.addNode(70);
+            //Displaying original list  
+            Console.WriteLine("Original list: ");
+            sList.display();
+            //Sorting list  
+            sList.sortList();
+            //Displaying sorted list  
+            Console.WriteLine("Sorted list: ");
+            sList.display();
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
