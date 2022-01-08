@@ -37,6 +37,16 @@ namespace Day14AssignmentProject
             Console.WriteLine("List after appending 30 and 70");
             list3.Display();
             Console.WriteLine("****Program End***\n");
+
+            //uc4
+            ListAddClass list4 = new ListAddClass();
+            list4.Add(56);
+            list4.Add(70);
+            int a2 = list4.Search(70);
+            Console.WriteLine("index position of 70 is : " + a2);
+            list4.InsertNthPosition(a2 + 1, 30);
+            list4.Display();
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
