@@ -93,6 +93,18 @@ namespace Day14AssignmentProject
             list8.Display();
             Console.WriteLine("****Program End***\n");
 
+            //uc9
+            ListAddClass list9 = new ListAddClass();
+            list9.Add(56);
+            list9.Add(30);
+            list9.Add(40);
+            list9.Add(70);
+            list9.Display();
+            list9.DeleteAnyElement(40);
+            Console.WriteLine("List after deletion of 40");
+            list9.Display();
+            Console.WriteLine("Size of Linked List is: " + list9.size());
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
