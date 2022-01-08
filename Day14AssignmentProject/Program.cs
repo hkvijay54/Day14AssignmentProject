@@ -28,6 +28,15 @@ namespace Day14AssignmentProject
             list2.InsertNthPosition(a + 1, 56);
             list2.Display();
             Console.WriteLine("****Program End***\n");
+
+            //uc3
+            ListAddClass list3 = new ListAddClass();
+            list3.Add(56);
+            list3.InsertAfter(30, 56);
+            list3.InsertAfter(70, 30);
+            Console.WriteLine("List after appending 30 and 70");
+            list3.Display();
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
