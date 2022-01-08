@@ -69,6 +69,16 @@ namespace Day14AssignmentProject
             Console.WriteLine("After removing last element");
             list6.Display();
             Console.WriteLine("****Program End***\n");
+
+            //uc7
+            ListAddClass list7 = new ListAddClass();
+            list7.Add(56);
+            list7.Add(30);
+            list7.Add(70);
+            int a3 = list7.Search(30);
+            Console.WriteLine("index position of 30 is : " + a3);
+            list7.Display();
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
