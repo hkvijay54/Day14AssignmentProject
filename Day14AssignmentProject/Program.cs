@@ -18,6 +18,16 @@ namespace Day14AssignmentProject
             list.Add(70);
             list.Display();
             Console.WriteLine("****Program End***\n");
+
+            //uc2
+            ListAddClass list2 = new ListAddClass();
+            list2.Add(70);
+            int a = list2.Search(70);
+            Console.WriteLine("index position of 70 is : " + a);
+            list2.InsertNthPosition(a + 1, 30);
+            list2.InsertNthPosition(a + 1, 56);
+            list2.Display();
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
