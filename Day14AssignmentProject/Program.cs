@@ -58,6 +58,17 @@ namespace Day14AssignmentProject
             Console.WriteLine("After removing first element");
             list5.Display();
             Console.WriteLine("****Program End***\n");
+
+            //uc6
+            ListAddClass list6 = new ListAddClass();
+            list6.Add(56);
+            list6.Add(30);
+            list6.Add(70);
+            list6.Display();
+            list6.RemoveLastNode();
+            Console.WriteLine("After removing last element");
+            list6.Display();
+            Console.WriteLine("****Program End***\n");
         }
     }
 }
